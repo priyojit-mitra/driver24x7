@@ -1,0 +1,55 @@
+.main
+{
+	width:90%;
+	margin:0 auto;
+}
+header
+{
+	float:left;
+	width:100%;
+	background-color:black;
+}
+h1
+{
+	float:left;
+	color:white;
+	width:55%;
+	padding-left:10%;
+	box-sizing:border-box;
+	border:0px solid red
+}
+section
+{
+	float:left;
+	width:100%;
+}
+section article
+{
+	float:left;
+	width:90%;
+	margin-bottom:0px;
+	background-color:yellow;
+	text-align:left;
+	padding:5%;
+	box-sizing:border-bottom;
+	border:0px solid red;
+}
+section aside
+{
+	float:left;
+	width:90%;
+	margin-bottom:0px;
+	background-color:cyan;
+	text-align:left;
+	padding:5%;
+	box-sizing:border-bottom;
+	border:0px solid red;
+}
+footer
+{
+	float:left;
+	width:100%;
+	text-align:center;
+	background-color:blue;
+	color:white;
+}
